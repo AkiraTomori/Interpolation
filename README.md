@@ -149,8 +149,8 @@ Dự án sử dụng các metrics sau để đánh giá:
 - Moving Average phù hợp cho dự báo xu hướng tổng quát
 
 ## Tác giả
-MSSV: 23127379
-Sinh viên thực hiện: Thái Minh Huy
+**MSSV:** 23127379
+**Sinh viên thực hiện:** Thái Minh Huy
 
 ## Tham khảo
 - Our World in Data - COVID-19 Dataset
